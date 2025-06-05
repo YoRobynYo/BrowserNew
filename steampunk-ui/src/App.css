@@ -1,0 +1,9 @@
+/* src/index.css or src/App.css */
+html,
+body,
+#root {
+  background-color: transparent !important;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
